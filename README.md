@@ -12,7 +12,7 @@ I aim to leverage robust programming skills and continuous learning to contribut
 
 | Skill                                         | Tools    | Associated Project         |
 |-----------------------------------------------|----------|----------------------------|
-| Data Structures and Algorithms         |    python      | <a href="https://github.com/nipun-priyanjith/malware-detection/">Detection Lab</a>|
+| Data Structures and Algorithms         |    python      | <a href="https://github.com/nipun-priyanjith/malware-detection/">malware detection</a>|
 | Experienced in Cloud Database Management |    firebase,AWS      | <a href="https://google.com">Detection Lab</a>|
 | Skilled in Cybersecurity Practices         |    python      | SOC Automation Lab|
 | Rapid Learning Ability for Acquiring New Knowledge      |    react,redux      | SOC Automation Lab|
