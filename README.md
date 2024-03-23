@@ -13,16 +13,16 @@ I aim to leverage robust programming skills and continuous learning to contribut
 | Skill                                         | Tools    | Associated Project         |
 |-----------------------------------------------|----------|----------------------------|
 | Data Structures and Algorithms         |    python      | <a href="https://github.com/nipun-priyanjith/malware-detection/">malware detection</a>|
-| Experienced in Cloud Database Management |    firebase,AWS      | <a href="https://google.com">Detection Lab</a>|
+| Experienced in Cloud Database Management |    firebase,AWS      | pending...|
 | Skilled in Cybersecurity Practices         |    python      | <a href="https://github.com/nipun-priyanjith/malware-detection/">malware detection</a>|
-| Rapid Learning Ability for Acquiring New Knowledge      |    react,redux      | SOC Automation Lab|
-| Effective Collaboration and Teamwork                  |    ardiuno,python      | SOC Automation Lab|
-| Familiarity with Enterprise Applications Architecture |    java,MVC      | SOC Automation Lab|
-| Familiarity with Artificial Intelligence |    python,ardiuno      | SOC Automation Lab|
+| Rapid Learning Ability for Acquiring New Knowledge      |    react,redux      | pending...|
+| Effective Collaboration and Teamwork                  |    ardiuno,python      | pending...|
+| Familiarity with Enterprise Applications Architecture |    java,MVC      | pending...|
+| Familiarity with Artificial Intelligence |    python,ardiuno      | pending...|
 
 <br><br>
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
+
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
@@ -34,7 +34,7 @@ I aim to leverage robust programming skills and continuous learning to contribut
 <br><br>
 ## Projects
 
-- SOC Automation Project
+- <a href="https://github.com/nipun-priyanjith/malware-detection/">malware detection python project</a>
 
 <br><br>
 ## Tools
