@@ -8,16 +8,17 @@ I aim to leverage robust programming skills and continuous learning to contribut
 <br><br>
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+
+| Skill                                         | Tools    | Associated Project         |
+|-----------------------------------------------|----------|----------------------------|
+| Data Structures and Algorithms         |    python      | <a href="https://google.com">Detection Lab</a>|
+| Experienced in Cloud Database Management |    firebase,AWS      | <a href="https://google.com">Detection Lab</a>|
+| Skilled in Cybersecurity Practices         |    python      | SOC Automation Lab|
+| Rapid Learning Ability for Acquiring New Knowledge      |    react,redux      | SOC Automation Lab|
+| Effective Collaboration and Teamwork                  |    ardiuno,python      | SOC Automation Lab|
+| Familiarity with Enterprise Applications Architecture |    java,MVC      | SOC Automation Lab|
+| Familiarity with Artificial Intelligence |    python,ardiuno      | SOC Automation Lab|
 
 <br><br>
 ## Certifications
