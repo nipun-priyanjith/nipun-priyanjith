@@ -35,6 +35,7 @@ I aim to leverage robust programming skills and continuous learning to contribut
 ## Projects
 
 - <a href="https://github.com/nipun-priyanjith/malware-detection/">malware detection python project</a>
+- <a href="https://github.com/nipun-priyanjith/chandra-texttiles/">Chandra Texttiles react project</a>
 
 <br><br>
 ## Tools
