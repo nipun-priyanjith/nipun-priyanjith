@@ -17,7 +17,7 @@ I aim to leverage robust programming skills and continuous learning to contribut
 | Skilled in Cybersecurity Practices         |    python      | <a href="https://github.com/nipun-priyanjith/malware-detection/">malware detection</a>|
 | Rapid Learning Ability for Acquiring New Knowledge      |    react,redux      | <a href="https://github.com/nipun-priyanjith/chandra-texttiles/">Chandra Texttiles</a>|
 | Effective Collaboration and Teamwork                  |    ardiuno,python      | pending...|
-| Familiarity with Enterprise Applications Architecture |    java,MVC      | pending...|
+| Familiarity with Enterprise Applications Architecture |    Spring Boot,MVC      |<a href="https://github.com/nipun-priyanjith/ecommerce_website_with_admin_panel/">ecommerce website</a>|
 | Familiarity with Artificial Intelligence |    python,ardiuno      | pending...|
 
 <br><br>
