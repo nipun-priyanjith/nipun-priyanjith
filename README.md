@@ -19,6 +19,7 @@ I aim to leverage robust programming skills and continuous learning to contribut
 | Effective Collaboration and Teamwork                  |    ardiuno,python      | pending...|
 | Familiarity with Enterprise Applications Architecture |    Spring Boot,MVC      |<a href="https://github.com/nipun-priyanjith/ecommerce_website_with_admin_panel/">ecommerce website</a>|
 | Familiarity with Artificial Intelligence |    python,ardiuno      | pending...|
+| Version Control |    Git, GitHub        | <a href="https://youtu.be/oC_UZJhI160?si=M49VUeVMjyZ9uscP"> @ErrorFix404|
 
 <br><br>
 ## Certifications
